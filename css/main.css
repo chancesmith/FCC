@@ -435,6 +435,12 @@ section.believe {
 section.believe strong {
   color: rgba(255, 255, 255, 0.46);
 }
+section.believe p {
+  margin-bottom: 27px;
+}
+section.believe p i {
+  color: #65cbff;
+}
 footer {
   padding: 25px 0;
   text-align: center;

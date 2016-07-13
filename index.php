@@ -49,24 +49,43 @@
       <div class="row">
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
           <h2>About Us</h2>
-          <p class="sub-line"><strong>Independent Christian church committed to the Gospel of Jesus Christ</strong></p>
-          <p>Founded in Jackson, TN, in the 1860s, we exist to bring glory to God by making disciples through gospel-centered worship and service.</p>
+          <p class="sub-line"><strong>Demonstrating Our Love by Loving Others</strong></p>
+          <p>First Christian is a family of believers honoring God by sharing the gifts he’s given us. We serve him by creating a loving and safe place for you and our community to worship and build a deeper understanding of the life changing grace of Jesus Christ. We Glorify God and demonstrate our love by loving others.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- <section class="believe">
+  <section class="believe">
     <div class="container">
       <div class="row">
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+        <div class="col-xs-offset-1 col-sm-offset-2 col-md-12 col-md-offset-0">
           <h2>What We Believe</h2>
-          <p class="sub-line"><strong>Numquam impedit explicabo fugit!</strong></p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consequuntur veniam reiciendis ab facere, velit adipisci iste quo. Perspiciatis porro amet soluta aspernatur ab ipsa sed, quibusdam fuga esse et.</p>
+          <!-- <p class="sub-line"><strong>Numquam impedit explicabo fugit!</strong></p> -->
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-5 col-md-offset-0">
+          <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;Jesus Christ is the one and only Son of God, who died for our sins and arose from the dead. (1 Corinthians 15: 1-8 &amp; John 3:16)</p>
+
+          <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;The Bible is the inspired Word of God - a lamp unto our feet and a light unto our path. (2 Timothy 3:16 &amp; Psalm 119:105)</p>
+
+          <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;Every person has worth as a creation of God, but all have sinned and fall short of the glory of God. (Romans 3:23)</p>
+
+          <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;Forgiveness of sins and the promise of eternal life are available to those who trust Christ as Savior and Lord. (John 3:16)</p>
+
+          <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;Those accepting Christ should repent of sin, confess their faith, and be baptized into Him. (Romans 10:9 &amp; Acts 2:38)</p>
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-5">
+          <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;We take the Lord’s Supper every Lord’s Day as the early church did, to remember and thank Jesus for what He did for us. (Acts 2:42; 20:7)</p>
+
+          <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;The Church is the body of Christ on earth, empowered by the Holy Spirit and exists to evangelize the lost and edify the saved. (Ephesians 4:1-16)</p>
+
+          <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;Jesus Christ will one day return to earth and reign forever as King of kings and Lord of lords. (1 Thessalonians 4:13-18).</p>
+
+          <p>For more information on First Christian Church and the Independent Christian Churches and Churches of Christ, please visit the following: <a href="http://christianchurchtoday.com">christianchurchtoday.com</a></p>
         </div>
       </div>
     </div>
-  </section> -->
+  </section>
 
   <footer>
     <div class="container">
