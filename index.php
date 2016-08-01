@@ -36,8 +36,8 @@
     <div class="container">
       <div class="intro-text">
         <h2>First Christian Church</h2>
-        <address>1347 Campbell St 
-          Jackson, TN 38301</address>
+        <p>On the corner of Campbell and Parkway.</p>
+        <address>1347 Campbell St Jackson, TN 38301</address>
         <p class="sub-detail number"><a href="tel:731-423-4659">(731) 423-4659</a></p>
         <p class="sub-detail schedule">Sunday: Bible Study 9am | Worship: 10am</p>
       </div>
@@ -82,6 +82,21 @@
           <p><i class="fa fa-chevron-right"></i>&nbsp;&nbsp;Jesus Christ will one day return to earth and reign forever as King of kings and Lord of lords. (1 Thessalonians 4:13-18).</p>
 
           <p>For more information on First Christian Church and the Independent Christian Churches and Churches of Christ, please visit the following: <a href="http://christianchurchtoday.com">christianchurchtoday.com</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="community">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h2>In The Community</h2>
+          <p class="sub-line"><strong>Supporting Our Local Police Department</strong></p>
+          <p>In an effort to show our support for the Jackson Police Department, First Christian Church will prepare a basket of snacks to take to the police station for the officers. We are asking that members of the congregation bring any type of snack foods on Sunday, July 24 to be placed in the basket as plans are to deliver the basket to them the week of July 25. Thanks for your help as we show our support for law enforcement in our community.</p>
+        </div>
+        <div class="col-md-6">
+        <img src="img/fcc-supporting-jackson-police-department.jpg" class="img-responsive" alt="First Christian Church Supporting Jackson Police Department">
         </div>
       </div>
     </div>
