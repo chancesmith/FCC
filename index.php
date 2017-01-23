@@ -115,7 +115,7 @@
           </ul>
         </div>
         <div class="col-md-4">
-          <span class="copyright">created by <a href="chancesmith.org/?utm_source=first-christian-church&amp;utm_medium=footer-link&amp;utm_campaign=past-project-2016">Chance Smith</a></span>
+          <span class="copyright">created by <a href="http://chancesmith.org/?utm_source=first-christian-church&amp;utm_medium=footer-link&amp;utm_campaign=past-project-2016">Chance Smith</a></span>
         </div>
       </div>
     </div>
