@@ -2,6 +2,7 @@
 FCC site code base
 
 Current Screenshot
+
 ![](img/fcc-screenshot.gif)
 
 ##Local Dev Setup
