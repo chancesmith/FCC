@@ -8,7 +8,7 @@ Current Screenshot
 ##Local Dev Setup
 - [install Node](https://nodejs.org/en/download/)
 - open terminal
-- install Gulp globally: `npm install --global gulp`
+- install Gulp globally: `npm install --global gulp-cli`
 - `npm install`
 - `gulp watch` Gulp will watch your LESS files and compile to CSS.
 - You're off to the races!
