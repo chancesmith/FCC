@@ -9,9 +9,8 @@ FCC site code base
 - `gulp watch` Gulp will watch your LESS files and compile to CSS.
 - You're off to the races!
 
+##What is LESS?
+http://lesscss.org/
+
 ##If wanting to add multiple pages with a simple blog...
 Might look into running this page through a [Jykell install](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/).
-
-
-What is LESS?
-http://lesscss.org/
