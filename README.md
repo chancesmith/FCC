@@ -1,6 +1,9 @@
 # FCC
 FCC site code base
 
+Current Screenshot
+![](img/fcc-screenshot.gif)
+
 ##Local Dev Setup
 - [install Node](https://nodejs.org/en/download/)
 - open terminal
